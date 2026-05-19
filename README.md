@@ -21,6 +21,13 @@ Initially GitHub push failed because Git was not authenticated locally.
 ### Solution
 Generated GitHub authentication via browser login and retried push successfully.
 
+## Issues Encountered
+### Cursor IDE unfamiliar interface
+Confusion with the Cursor interface due to differences from the tutorials shown on YouTube, resulting in difficulty locating how to create or open a new repository immediately.
+
+### Solution
+Learned how to open a project folder and successfully set up the repository.
+
 ## What I Learned
 - Basic GitHub workflow
 - Using AI-assisted development tools
